@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o curso de *Flexbox* da DIO que está disponível no Bootcamp **Impulso Javascript Evolution** para aprender como se desenvolve uma página utilizando os conceitos de *Flexbox* vistos em aula para alinhar a página e deixá-la mais responsiva.
 
-## Imagem da página 🖼️
+## Imagens da página 🖼️
 
 ![Foto 1](./flex-projeto/images/prints/foto-1.png)
 ![Foto 2](./flex-projeto/images/prints/foto-2.png)
